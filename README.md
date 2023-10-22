@@ -1,2 +1,2 @@
-# nextjs-oauth-template
-Template Next.js App with OAuth and a file upload endpoint using Prisma for database connections
+# nextjs-auth0-template
+Template Next.js App with Auth0 and a file upload endpoint using Prisma for database connections
